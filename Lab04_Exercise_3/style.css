@@ -1,0 +1,16 @@
+table,td,th,tr
+{
+  background-color:#ccb7ae;
+  color: #706677;
+  border:4px solid #56264;
+  height:30 px;
+  font-size:10 pt;
+}
+
+body
+{
+  background-color: #355C7D;
+  color: #F8B195;
+  font-style: italic;
+  font-size: 15pt;
+}
